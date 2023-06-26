@@ -2,7 +2,7 @@ import SplitPane, {
   Divider,
   SplitPaneLeft,
   SplitPaneRight,
-  SplitPaneTop,
+  SplitPaneTop
 } from "./SplitPane";
 import { useState, useEffect } from "react";
 import InputAdornment from '@mui/material/InputAdornment';

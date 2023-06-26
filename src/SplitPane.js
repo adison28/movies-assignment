@@ -107,7 +107,7 @@ export const SplitPaneRight = (props) => {
         </React.Fragment>
         :
         <React.Fragment>
-          <div style={{ margin: '5%' }}>
+          <div style={{ margin: '5%' }} data-testid='defaultText'>
             IMPORTANT!
           </div>
           <p style={{ margin: '5%' }}>
